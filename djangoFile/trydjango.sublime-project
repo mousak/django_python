@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "src"
+		},
+		{
+			"path": "static_in_env"
+		},
+		{
+			"path": "local/lib/python2.7/site-packages/registration/backends/default"
+		}
+	]
+}

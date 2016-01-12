@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block content %}
+<div class='row'>
+	<div class='col-sm-9 col-sm-6'>
+		<h1 class=' col-lg-12' style='color:green'>Reparation</h1>
+		<h3	class=' col-md-9' style='color:blue'>Repair of mobile phones and iPad</h3>
+		<img src="{% static 'img/rep1.jpg' %}" height="250px" width="400px" /><br/><br/>
+		<p><strong> We service of older mobile phones, smartphones and the iPad in our store, we also offer express service at no additional cost. Display Replacing about 30 minutes.
+		Troubleshooting the mobile phone 150 crowns.</strong>
+		</p><br/><br/>
+	</div>
+</div>
+<div>
+	<img src="{% static 'img/rep2.jpg' %}"/><br/><br/><br/>
+	<p>You can also send the phone to us for repair if you are not able to get past our store.</p><br/><br/><br/>
+</div>
+<div>
+	<img src="{% static 'img/rep3.jpg' %}"/><br/><br/><br/>
+	<p>We even cleans your computer from viruses, speeds up slow computers and reinstall Windows.</p><br/><br/><br/>
+</div>
+<div>
+	<p>Repair the following mobile phone and tablets:</p>
+	<ul>
+		<li>Iphone</li>
+		<li>Samsung</li>
+		<li>Nokia</li>
+		<li>Ipad & Ipod</li>
+		<li>Sony</li>
+	</ul>
+</div>
+{% endblock %}

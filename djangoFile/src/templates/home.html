@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
+{% load staticfiles %}
+
+{% block head_title %}Welcome | {{block.super}} {% endblock %}
+
+
+{% block style %}
+
+.jumbotron{
+      background-color: #561242;
+      color:#12F2AB;
+    }
+{% endblock %}
+
+{% block jumbotron %}
+{% if not request.user.is_authenticated %}
+<div class="jumbotron">
+	<div class="container">
+		<div class="row">
+			<div clas='col-sm-6'>
+					<h1>LOREM</h1>
+					<p>Lorem not only mobile shop but also give you tips to acquire the most suitable mobile for you.</p>
+					<p><a class="btn btn-lg btn-primary" href='{% url 'JoinUs' %}' role="button">Join us &raquo;</a>
+					</p>
+			</div>
+			<div class='col-sm-6'>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/CnYtWWDor2s" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+{% endif %}
+
+{% endblock %}
+
+{% block content %}
+ {% if request.user.is_authenticated %}
+	<h1> You are logged in </h1>
+	{% if queryset %}
+		<h1>Welcome</h1>
+	<table class='table'>
+	{% for instance in queryset %}
+		<tr><td>{{ forloop.counter }}</td><td>{{ instance.email }}</td><td>{{ instance.full_name }}</td><td>{{ instance.timestamp|timesince }} ago</td></tr>
+		{% if instance.email == "mousa@hotmail.se" %}
+		<tr><td>is equal</td></tr>
+		{% endif %}
+	{% endfor %}
+	</table>
+	{% endif %}
+ {% else %}
+<div class="row">
+  <div class="col-sm-3 pull-right">
+  		<p class='lead text-align-center'>Social</p><br/><br/>
+  		<div class='col-sm-offset-2'>
+		<!-- Twitter button -->
+		<p><a href="https://twitter.com/share" class="twitter-share-button"{count} data-url="http//:LEROM.com" data-via="mousa" data-dnt="true">Tweet</a></p>
+
+		<!--Facebook button  -->
+	<div class="fb-like" data-href="https://LOREM.com" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>	
+	</div>
+	</div>
+	<div class="col-sm-3">
+		<p class='lead text-align-center '>Samsung &amp; Iphone<br/>   accessories</p>
+		<a href="{% url 'accessories' %}"><img  src="{% static 'img/covers.jpg' %}" class='img-responsive' /></a>
+	</div>
+	<div class="col-sm-3">
+		<p class='lead text-align-center '>Maintenance requirements</p><br/>
+		<a href="{% url 'maintenance' %}"><img  src="{% static 'img/maintenance.jpg' %}" class='img-responsive' /></a>
+	</div>
+		<div class="col-sm-3">
+		<p class='lead text-align-center'>Mobiles Offer</p><br/>
+		<a href="{% url 'offers' %}"><img  src="{% static 'img/mobiles.jpg' %}" class='img-responsive' />
+	</div>
+</div>
+ {% endif %}
+{% endblock %}

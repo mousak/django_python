@@ -1,0 +1,603 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"static_",
+				"STATIC_ROOT"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"E",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"contact",
+				"ContactForm"
+			],
+			[
+				"S",
+				"SignUp"
+			],
+			[
+				"Si",
+				"SignUpAdmin"
+			],
+			[
+				"Sing",
+				"SignUpForm"
+			],
+			[
+				"F",
+				"forms"
+			],
+			[
+				"SignU",
+				"SignUpAdmin"
+			],
+			[
+				"at",
+				"auto_now"
+			],
+			[
+				"a",
+				"auto_now_add"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/templates/about.html",
+			"settings":
+			{
+				"buffer_size": 473,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 2529,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/navbar.html",
+			"settings":
+			{
+				"buffer_size": 2797,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/src/views.py",
+			"settings":
+			{
+				"buffer_size": 387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/newsletter/views.py",
+			"settings":
+			{
+				"buffer_size": 1836,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/newsletter/forms.py",
+			"settings":
+			{
+				"buffer_size": 914,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/src/urls.py",
+			"settings":
+			{
+				"buffer_size": 1615,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/JoinUs.html",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1635,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mousa/Desktop/djangoFile/src",
+		"/home/mousa/Desktop/djangoFile/src/newsletter",
+		"/home/mousa/Desktop/djangoFile/src/src",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/css",
+		"/home/mousa/Desktop/djangoFile/src/templates",
+		"/home/mousa/Desktop/djangoFile/local/lib/python2.7/site-packages/registration/backends/default"
+	],
+	"file_history":
+	[
+		"/home/mousa/Desktop/djangoFile/src/templates/navbar.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/base.html",
+		"/home/mousa/Desktop/djangoFile/src/src/urls.py",
+		"/home/mousa/Desktop/djangoFile/src/src/views.py",
+		"/home/mousa/Desktop/djangoFile/local/lib/python2.7/site-packages/registration/backends/default/urls.py",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/models.py",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/forms.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/home.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/accessories.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/head_css.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/reparation.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/offers.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/maintenance.html",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/css/custom.css",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/views.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/about.html",
+		"/home/mousa/Desktop/djangoFile/src/src/settings.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/registration/activation_email_subject.txt",
+		"/home/mousa/Desktop/djangoFile/local/lib/python2.7/site-packages/registration/templates/registration/activation_email.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/registration/activation_email.txt",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/img/example.txt",
+		"/home/mousa/Desktop/djangoFile/lib/python2.7/site-packages/registration/templates/registration/activation_email.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/registration/login.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/registration/registration_form.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/forms.html",
+		"/home/mousa/Desktop/djangoFile/lib/python2.7/site-packages/registration/backends/default/views.py",
+		"/home/mousa/Desktop/djangoFile/lib/python2.7/site-packages/registration/admin.py",
+		"/home/mousa/Desktop/djangoFile/src/7",
+		"/home/mousa/Desktop/djangoFile/src/templates/javaScript.html",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/css/custom.html",
+		"/home/mousa/Desktop/djangoFile/static_in_env/static_root/admin/css/base.css",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/css/bootstrap.min.css",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/base.html",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/admin.py",
+		"/home/mousa/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mousa/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/templates/home.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/templates/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								438,
+								438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1402,
+								1402
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 690.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/templates/navbar.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1572,
+								1572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 248.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/src/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/newsletter/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/newsletter/forms.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/src/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1339,
+								1339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/templates/JoinUs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

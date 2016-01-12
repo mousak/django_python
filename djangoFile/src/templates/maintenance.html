@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block content %}
+	<div class='row'>
+	<div class='col-sm-9 col-sm-6'>
+		<h1 class=' col-lg-12' style='color:green'>Maintenance requirement</h1>
+		<h3	class=' col-md-9' style='color:blue'>we have a good maintenance instruments</h3><br/><br/>
+			<img src="{% static 'img/instruments.jpg' %}" height="400px" width="500px" /><br/><br/><br/>
+			<p><strong>we have a wide variety of maintenance instruments for many type of mobiles like(Samsung,iphone ...etc)</strong>
+			</p><br/><br/>
+		<ul id="1" style='color:green'>
+			<li><h3 id="1" >Iphone Desplay<br/><br/><br/>
+			<div class="col-sm-6" style="color:black">
+				We have a best Iphone display with 1 year garanti
+			</div>
+			<div class="col-sm-offset-9">
+				<img src="{% static 'img/display_iphone.jpg' %}" height="300px" width="400px" />
+			</div>
+			</h3></li>
+			<li><h3 id="1">Samsung Display<br/><br/><br/>
+			<div class="col-sm-6" style="color:black">
+				We have a best Samsung display with 1 year garanti
+			</div>
+			<div class="col-sm-offset-9">
+				<img src="{% static 'img/samsung_cover.jpg' %}" height="300px" width="400px" />	
+			</div>
+			</h3><br/><br/></li>
+		</ul>
+	</div>
+</div>
+<div>
+{% endblock %}

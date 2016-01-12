@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% load staticfiles %}
+{% block content %}
+<div class='row'>
+	<div class='col-sm-9 col-sm-9'>
+		<h1 class=' col-lg-12' style='color:green'>Mobile &amp; accessories &amp; instruments Offers</h1>
+		<h3	class=' col-md-9' style='color:blue'>Our offers avilable just for <span style="color:red">Subscribers</span></h3><br/><br/><br/><br/>
+		<ul class="col-sm-12">
+			<li><h3  style="color:blue"><strong>Mobile offers</strong></h3><br/><br/><br/>
+				<div class="col-sm-6">
+					<img src="{% static 'img/sony_offer.jpg' %}" />
+				</div>
+				<div class="col-sm-offset-6">
+					<img src="{% static 'img/galaxy_offer.png' %}" height="450px" width="500px" />
+				</div>
+			</li><br/><br/>
+			<li><h3 style="color:blue"><strong>Instruments offers</strong></h3><br/><br/><br/>
+				<div class="col-sm-5">
+					<img src="{% static 'img/instruments_offer.jpg' %}" height="450px" width="300px"  />
+				</div>
+				<div class="col-sm-offset-5">
+					<img src="{% static 'img/instruments_offer1.jpg' %}" height="450px" width="700px"  />
+				</div>
+			</li><br/><br/>
+			<li><h3 style="color:blue"><strong>Accessories offers</strong></h3><br/><br/><br/>
+				<div class="col-sm-6">
+					<img src="{% static 'img/mobile_accessories_offer.jpg' %}" />
+				</div>
+				<div class="col-sm-offset-6">
+					<img src="{% static 'img/mobile_accessories_offer1.jpg' %}" height="450px" width="500px" />
+				</div>
+			</li><br/><br/>
+		</ul>
+	</div>
+<div>
+</div>
+{% endblock %}
