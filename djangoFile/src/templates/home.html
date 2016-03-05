@@ -37,6 +37,7 @@
 {% block content %}
  {% if request.user.is_authenticated %}
 	<h1> You are logged in </h1>
+	{{ home }}
 	{% if queryset %}
 		<h1>Welcome</h1>
 	<table class='table'>
@@ -47,6 +48,9 @@
 		{% endif %}
 	{% endfor %}
 	</table>
+	{% for instance in queryset %}
+
+	{% endfor %}
 	{% endif %}
  {% else %}
 <div class="row">

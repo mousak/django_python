@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"HttpResponse",
+				"HttpResponseRedirect"
+			],
+			[
+				"au",
+				"auto_now_add"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"static_",
+				"STATIC_ROOT"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"E",
+				"EMAIL_HOST_USER"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"contact",
+				"ContactForm"
+			],
+			[
+				"S",
+				"SignUp"
+			],
+			[
+				"Si",
+				"SignUpAdmin"
+			],
+			[
+				"Sing",
+				"SignUpForm"
+			],
+			[
+				"F",
+				"forms"
+			],
+			[
+				"SignU",
+				"SignUpAdmin"
+			],
+			[
+				"at",
+				"auto_now"
+			],
+			[
+				"a",
+				"auto_now_add"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mousa/hello/django_python/djangoFile",
+		"/home/mousa/hello/django_python/djangoFile/src",
+		"/home/mousa/hello/django_python/djangoFile/src/newsletter",
+		"/home/mousa/hello/django_python/djangoFile/src/posts",
+		"/home/mousa/hello/django_python/djangoFile/src/src"
+	],
+	"file_history":
+	[
+		"/home/mousa/hello/django_python/djangoFile/src/src/settings.py",
+		"/home/mousa/hello/django_python/djangoFile/src/newsletter/models.py",
+		"/home/mousa/hello/django_python/djangoFile/src/posts/models.py",
+		"/home/mousa/hello/django_python/djangoFile/src/posts/views.py",
+		"/home/mousa/hello/django_python/djangoFile/src/templates/post_form.html",
+		"/home/mousa/hello/django_python/djangoFile/src/posts/forms.py",
+		"/home/mousa/hello/django_python/djangoFile/src/templates/navbar.html",
+		"/home/mousa/hello/django_python/djangoFile/src/templates/home.html",
+		"/home/mousa/hello/django_python/djangoFile/src/src/views.py",
+		"/home/mousa/hello/django_python/djangoFile/src/templates/post_list.html",
+		"/home/mousa/hello/django_python/djangoFile/src/posts/urls.py",
+		"/home/mousa/hello/django_python/djangoFile/src/templates/post_index.html",
+		"/home/mousa/hello/django_python/djangoFile/src/templates/head_css.html",
+		"/home/mousa/hello/django_python/djangoFile/src/templates/javaScript.html",
+		"/home/mousa/hello/django_python/djangoFile/src/templates/base.html",
+		"/home/mousa/Desktop/mousa/src/templates/base.html",
+		"/home/mousa/hello/django_python/djangoFile/src/src/urls.py",
+		"/home/mousa/Desktop/mousa/src/templates/post_form.html",
+		"/home/mousa/Desktop/mousa/src/templates/post_list.html",
+		"/home/mousa/Desktop/mousa/src/posts/views.py",
+		"/home/mousa/Desktop/mousa/src/posts/models.py",
+		"/home/mousa/Desktop/mousa/src/templates/post_index.html",
+		"/home/mousa/Desktop/mousa/src/posts/forms.py",
+		"/home/mousa/Desktop/mousa/src/posts/template_tags/urlify.py",
+		"/home/mousa/Desktop/mousa/src/posts/template_tags/__init__.py",
+		"/home/mousa/Desktop/mousa/src/posts/migrations/0001_initial.py",
+		"/home/mousa/Desktop/mousa/src/src/settings.py",
+		"/home/mousa/Desktop/mousa/src/src/urls.py",
+		"/home/mousa/Desktop/mousa/src/static/css/base.css",
+		"/home/mousa/Desktop/mousa/src/templates/messages_display.html",
+		"/home/mousa/Desktop/mousa/src/posts/urls.py",
+		"/home/mousa/Desktop/mousa/src/templates/index.html",
+		"/home/mousa/Desktop/mousa/src/src/templates/index.html",
+		"/home/mousa/Desktop/mousa/src/src/templates.py",
+		"/home/mousa/Desktop/mousa/src/posts/admin.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/navbar.html",
+		"/home/mousa/Desktop/djangoFile/src/content_edit/admin.py",
+		"/home/mousa/Desktop/djangoFile/src/blog/views.py",
+		"/home/mousa/Desktop/djangoFile/src/src/urls.py",
+		"/home/mousa/Desktop/djangoFile/src/blog/urls.py",
+		"/home/mousa/Desktop/djangoFile/src/blog/tests.py",
+		"/home/mousa/Desktop/djangoFile/src/blog/models.py",
+		"/home/mousa/Desktop/djangoFile/src/blog/apps.py",
+		"/home/mousa/Desktop/djangoFile/src/blog/admin.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/base.html",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/views.py",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/models.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/javaScript.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/home.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/content_edit/sample_content_edit.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/offers.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/JoinUs.html",
+		"/home/mousa/Desktop/djangoFile/src/src/settings.py",
+		"/home/mousa/Desktop/djangoFile/local/lib/python2.7/site-packages/django/template/loader.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/post.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/blog.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/archives.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/tagpage.html",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/admin.py",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/ckeditor/widget.html",
+		"/home/mousa/Desktop/djangoFile/local/lib/python2.7/site-packages/django/contrib/admin/templates/admin/change_form.html",
+		"/home/mousa/Desktop/django_editable/src/images/screen.png",
+		"/home/mousa/Desktop/django_editable/src/content_edit_proj/wsgi.py",
+		"/home/mousa/Desktop/django_editable/src/content_edit_proj/urls.py",
+		"/home/mousa/Desktop/django_editable/src/content_edit_proj/settings.py",
+		"/home/mousa/Desktop/ckedit/local/lib/python2.7/site-packages/django/db/backends/mysql/base.py",
+		"/home/mousa/just_for_try/django_python/django-ckeditor/ckeditor_demo/settings.py",
+		"/home/mousa/Desktop/ckedit/local/lib/python2.7/site-packages/django/db/backends/sqlite3/base.py",
+		"/home/mousa/Desktop/ckedit/local/lib/python2.7/site-packages/django/db/backends/base/base.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/about.html",
+		"/home/mousa/just_for_try/django_python/django-ckeditor/ckeditor/static/ckeditor/ckeditor-init.js",
+		"/home/mousa/Desktop/djangoFile/src/content_edit/urls.py",
+		"/home/mousa/Desktop/django_editable/src/content_edit/admin.py",
+		"/home/mousa/Desktop/django_editable/src/content_edit/models.py",
+		"/home/mousa/Desktop/django_editable/src/content_edit/urls.py",
+		"/home/mousa/Desktop/django_editable/src/Dockerfile",
+		"/home/mousa/Desktop/django_editable/src/content_edit/settings.py",
+		"/home/mousa/Desktop/djangoFile/src/content_edit/views.py",
+		"/home/mousa/Desktop/django_editable/src/content_edit/views.py",
+		"/home/mousa/Desktop/django_editable/src/content_edit/tests.py",
+		"/home/mousa/Desktop/djangoFile/src/content_edit/tests.py",
+		"/home/mousa/Desktop/djangoFile/src/content_edit/settings.py",
+		"/home/mousa/Desktop/djangoFile/src/content_edit/models.py",
+		"/home/mousa/Desktop/djangoFile/src/content_edit/apps.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/content_edit/content_edit.html",
+		"/home/mousa/Desktop/django_editable/src/content_edit/templates/content_edit/sample_content_edit.html",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/content_edit.js",
+		"/home/mousa/Desktop/djangoFile/src/templates/head_css.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/registration/editable.js",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/js/editable.js",
+		"/home/mousa/Desktop/djangoFile/static_in_env/static_root/admin/css/changelists.css",
+		"/home/mousa/Desktop/djangoFile/static_in_env/static_root/admin/css/fonts.css",
+		"/home/mousa/Desktop/djangoFile/src/templates/registration/login.html",
+		"/home/mousa/Desktop/djangoFile/static_in_env/static_root/admin/css/rtl.css",
+		"/home/mousa/Desktop/djangoFile/static_in_env/static_root/admin/css/widgets.css",
+		"/home/mousa/Desktop/djangoFile/src/src/views.py",
+		"/home/mousa/Desktop/djangoFile/local/lib/python2.7/site-packages/registration/backends/default/urls.py",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/forms.py",
+		"/home/mousa/Desktop/djangoFile/src/templates/accessories.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/reparation.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/maintenance.html",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/css/custom.css",
+		"/home/mousa/Desktop/djangoFile/src/templates/registration/activation_email_subject.txt",
+		"/home/mousa/Desktop/djangoFile/local/lib/python2.7/site-packages/registration/templates/registration/activation_email.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/registration/activation_email.txt",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/img/example.txt",
+		"/home/mousa/Desktop/djangoFile/lib/python2.7/site-packages/registration/templates/registration/activation_email.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/registration/registration_form.html",
+		"/home/mousa/Desktop/djangoFile/src/templates/forms.html",
+		"/home/mousa/Desktop/djangoFile/lib/python2.7/site-packages/registration/backends/default/views.py",
+		"/home/mousa/Desktop/djangoFile/lib/python2.7/site-packages/registration/admin.py",
+		"/home/mousa/Desktop/djangoFile/src/7",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/css/custom.html",
+		"/home/mousa/Desktop/djangoFile/static_in_env/static_root/admin/css/base.css",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/css/bootstrap.min.css",
+		"/home/mousa/Desktop/djangoFile/src/static_in_pro/our_static/base.html",
+		"/home/mousa/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mousa/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/mousa/Desktop/djangoFile/src/newsletter/templates/home.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"get_create_url",
+			",\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -30,6 +30,7 @@ urlpatterns = [
     url(r'^offers/$', views.offers, name='offers'),
     url(r'^JoinUs/$', 'newsletter.views.JoinUs', name='JoinUs'),
     url(r'^accounts/', include('registration.backends.default.urls')),
+    url(r'^posts/', include("posts.urls", namespace='posts')),
 ]
 
 if settings.DEBUG:

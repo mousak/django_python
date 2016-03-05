@@ -1,0 +1,51 @@
+{% extends "posts_base.html" %}
+{% block content %}
+<div class='col-sm-6 col-sm-offset-3'>
+<h1>{{ title }}</h1>
+<form method='GET' action=''>
+<input type='text' name='q' placeholder='Search posts'/>
+<input type='submit' value='search'/>
+</form>
+<form method='GET' action=''>
+<input type='submit' value='Create new post'/>
+</form>
+	{% for object in object_list %}
+    <div class="row">
+	  <div class="col-sm-12">
+	    <div class="thumbnail">
+	   {% if object.image %}
+        <img src='{{ object.image.url }}' class='img-responsive'/>
+        {% endif %}
+	      <div class="caption">
+	        <h3><a href='{{ object.get_absolut_url }}'>{{ object.title }}<small>{{ object.publish }}</small></a></h3>
+             {% if instance.user.get_full_name %}
+                <p>Author: {{ instance.user.get_full_name }}</p>
+            {% endif %}
+	        <p>{{ object.content|linebreaks|truncatechars:120 }}</p>
+	        <p><a href="{{ object.get_absolut_url }}" class="btn btn-primary" role="button">View</a> <a href="{{ object.get_edit_url }}" class="btn btn-default" role="button">Edit</a><a href="{{ object.get_delete_url }}" class="btn btn-default" role="button">Delete</a></p>
+      	</div>
+    </div>
+  </div>
+  <!-- {% cycle "" "<div class='col-sm-12'></div><hr/></div><div class='row'>" %} -->
+</div>
+<hr/>
+	{% endfor %}
+	<div class="pagination">
+    <span class="step-links">
+        {% if object_list.has_previous %}
+            <a href="?page={{ object_list.previous_page_number }}&q={{ request.GET.q }}">previous</a>
+        {% endif %}
+
+        <span class="current">
+            Page {{ object_list.number }} of {{ object_list.paginator.num_pages }}.
+        </span>
+
+        {% if object_list.has_next %}
+            <a href="?page={{ object_list.next_page_number }}{% if request.GET.q %}&q={{ request.GET.q }}{% endif %}">next</a>
+        {% endif %}
+    </span>
+</div>
+
+</div>
+{% endblock %}
+
